@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Maxim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h4 align="center">Student of the Faculty of Radio Engineering and Computer Technology at <a href="https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology" target="_blank">MIPT</a></h4>
+<h4 align="center">Student of the Faculty of Radio Engineering and Computer Technology at <a href="https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology" target="_blank">MIPT</a></h4>  
 
 ---
   

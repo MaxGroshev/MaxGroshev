@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Maxim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Student+of+the+Faculty+of+Radio+Engineering+and+Computer+Technology+at+MIPT)](https://git.io/typing-svg)
+<h3 align="center">Student of the Faculty of Radio Engineering and Computer Technology at MIPT</h3>
 <!--
 **MaxGroshev/MaxGroshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

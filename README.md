@@ -12,7 +12,7 @@
 
 ## 📈 GitHub Stats
 <div>
-  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=XelerT&show_icons=true&theme=dark&mode=weekly" />
+  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=MaxGroshev&show_icons=true&theme=default&mode=weekly" />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxGroshev&layout=compact&show_icons=true&theme=vue" /> -->
 </div>
 

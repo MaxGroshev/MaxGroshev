@@ -3,6 +3,12 @@
 <h3 align="center">Student of the Faculty of Radio Engineering and Computer Technology at <a href="https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology" target="_blank">MIPT</a></h3>
 
 
+
+
+
+
+
+
 <h3 align="center">  I’m currently working on .</h3>
 
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/MaxGroshev)

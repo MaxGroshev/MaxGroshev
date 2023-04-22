@@ -2,8 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Student of the Faculty of Radio Engineering and Computer Technology at <a href="https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology" target="_blank">MIPT</a></h3>
 
+<h3 align="center"
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaxGroshev&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaxGroshev&theme=white)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaxGroshev&theme=white)</h3>
 
 <!--
 **MaxGroshev/MaxGroshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

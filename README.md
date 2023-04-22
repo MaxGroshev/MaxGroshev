@@ -2,14 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h4 align="center">Student of the Faculty of Radio Engineering and Computer Technology at <a href="https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology" target="_blank">MIPT</a></h4>
 
-
-
-
-
-
 ---
 
-## 📈 GitHub Stats<h3 align="center">  I’m currently working on .</h3>
+<h3 align="center">  ## 📈 Current interests .</h3>
 
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/MaxGroshev)
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

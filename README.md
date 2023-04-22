@@ -5,8 +5,8 @@
 ---
   
  ## 💻 Current programming projects 
- - I'm working on Ilab course 
- - Projects based on data structures: <a href="https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology" target="_blank">differentiator</a>, <a href="https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology" target="_blank">processor</a>
+ - Ilab course 
+ - Projects based on data structures: <a href="https://github.com/MaxGroshev/differentiator" target="_blank">differentiator</a>, <a href="https://github.com/MaxGroshev/processor" target="_blank">processor</a>
 
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/MaxGroshev)
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

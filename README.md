@@ -6,7 +6,7 @@
   
  ## 💻 Current programming projects 
  - Ilab course 
- - Projects based on data structures: <a href="https://github.com/MaxGroshev/differentiator" target="_blank">differentiator</a>, <a href="https://github.com/MaxGroshev/processor" target="_blank">processor</a>
+ - Projects based on data structure and oop
 
 ---
 
